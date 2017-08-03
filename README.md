@@ -7,5 +7,17 @@ can create restaurant and its menu, delete restsaurant and its menu otems and ca
 
 *PREREQUISITES*
 1 Vagrant
-2Pyhton 
+2 Pyhton 
 3 VirtualBOx
+
+*Installing*
+
+1 Install vagrant and virtual box
+2 Clone this repository
+
+*Download*
+download the lotsofmenu.py
+
+*Running*
+1 Run vagrant up and login to 
+
