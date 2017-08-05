@@ -1,21 +1,20 @@
 # Movie-trailer-website
 
 # ABOUT
-It is a project of intro to programming under udacity.This project includes database of User,
-Restaurant and MenuItems  which is professed to be designed for restaurant website.User can login to the restaurant menu website, 
-can create restaurant and its menu, delete restsaurant and its menu otems and can also edit restaurant and its menu item.
+It is a project of Intro To Programming under Udacity.This project includes database of movies links where each link will redirect the user to its repective trailer videos on youtube. The data structure is created in python to store your favorite movies, including movie title, box art URL (or poster URL) and a YouTube link to the movie trailer. 
 
 # PREREQUISITES
-1 Vagrant
-2 Pyhton 
-3 VirtualBox
+* Pyhton 
 
-# Installing
+# Install
+* Python
 
-1 Install vagrant and virtual box
-2 Clone this repository
-
+# Downloading
+To help you generate a website that displays these movies, we have provided a starter code repository that contains
+a Python module called fresh_tomatoes.py. To get started, fork this [repository](https://github.com/udacity/ud036_StarterCode/blob/master/fresh_tomatoes.py) to create your own copy in GitHub. Then clone your ud036_StarterCode repository to work on this project locally on your computer. The fresh_tomatoes.py module has a function called open_movies_page that takes in one argument, which is a list of movies, and creates an HTML file which will display all of your favorite movies.
+ 
 # To Run
-* Launch Vagrant VM by running `vagrant up`, and after running you can the log in with `vagrant ssh`.
 * To execute the program, run `python filename.py` from the command line.
 
+# Copyright and License
+* Project starter code (supplied without rights information) contributed by [Udacity](udacity.com).
