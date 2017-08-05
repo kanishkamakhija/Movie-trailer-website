@@ -4,7 +4,7 @@
 It is a project of Intro To Programming under Udacity.This project includes database of movies links where each link will redirect the user to its repective trailer videos on youtube. The data structure is created in python to store your favorite movies, including movie title, box art URL (or poster URL) and a YouTube link to the movie trailer. 
 
 ## Prerequisites
-* Pyhton 
+* Python 
 
 ## Install
 * Python
